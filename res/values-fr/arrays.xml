@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_array">
+        <item>Ouvrir le site web RSA</item>
+        <item>Les détails de cette appli</item>
+        <item>Retour</item>
+    </string-array>
+</resources>

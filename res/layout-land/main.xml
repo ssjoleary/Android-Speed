@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+             android:layout_gravity="right|center_vertical"
+             xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/frameLayout">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/main_text"
+              android:id="@+id/main_textView"/>
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+                  android:gravity="center" android:layout_gravity="right|center_vertical">
+        <Button android:layout_width="150dip" android:layout_height="50dip" android:text="@string/main_button_scr2"
+                android:id="@+id/main_button_scr2" android:layout_gravity="right|center_vertical"/>
+        <Button android:layout_width="150dip" android:layout_height="50dip" android:text="@string/main_button_scr3"
+                android:id="@+id/main_button_scr3" android:layout_gravity="center"/>
+        <Button android:layout_width="150dip" android:layout_height="50dip" android:text="@string/main_button_scr4"
+                android:id="@+id/main_button_scr4" android:layout_gravity="center"/>
+        <Button
+                android:layout_width="150dip"
+                android:layout_height="50dip"
+                android:text="@string/quit_button"
+                android:id="@+id/quit_button"/>
+    </LinearLayout>
+    <EditText android:layout_width="wrap_content" android:layout_height="wrap_content"
+              android:text="@string/main_edit_text" android:id="@+id/main_editText" android:inputType="text"
+              android:layout_gravity="left|center_vertical"/>
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+              android:text="@string/scr_three_response" android:id="@+id/main_reversename" android:paddingTop="20dp"
+              android:layout_gravity="center_horizontal|bottom"/>
+    <EditText android:layout_width="wrap_content" android:layout_height="50dip" android:text="@string/main_edit_speed"
+              android:id="@+id/main_editSpeed" android:selectAllOnFocus="true" android:singleLine="true"
+              android:textSize="12dp" android:inputType="numberDecimal" android:numeric="decimal"
+              android:layout_gravity="center"/>
+</FrameLayout>

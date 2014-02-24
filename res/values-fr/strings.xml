@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vitesse</string>
+
+    <string name="main_text">Bienvenue à Vitesse</string>
+    <string name="main_edit_text">Entrez le nom ici</string>
+    <string name="main_edit_speed">Entrez la vitesse ici (mph)</string>
+    <string name="main_button_scr2">Aller à l\'écran 2!</string>
+    <string name="main_button_scr3">Aller à l\'écran 3!</string>
+    <string name="main_button_scr4">Aller à l\'écran 4!</string>
+
+    <string name="scr_two_name">Insérer le texte ici!</string>
+
+    <string name="back_button">Retour</string>
+    <string name="quit_button">Quitter</string>
+
+    <string name="scr_three_response"></string>
+    <string name="scr_three_reversetext">Votre nom est à l\'envers:</string>
+    <string name="scr_three_usernamereverse"></string>
+    <string name="scr_three_name">Insérer le texte ici!</string>
+
+    <string name="save_on_exit">"Voulez-vous sauver votre nom d'utilisateur?"</string>
+    <string name="welcome_msg">"Bienvenue à la vitesse!\nRappelez-vous une limite de vitesse ne signifie pas qu'il est sécuritaire de rouler à cette vitesse.\nEntrez votre nom et une vitesse en mph"</string>
+
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="cont">Continuer</string>
+
+    <string name="result_text">S\'écraser sur un objet rigide à %1$.2f mph équivaut à une chute libre de %2$.2f m</string>
+
+</resources>

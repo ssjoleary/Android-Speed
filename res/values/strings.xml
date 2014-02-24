@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Speed</string>
+
+    <string name="main_text">Welcome to Speed</string>
+    <string name="main_edit_text">Enter your name here</string>
+    <string name="main_edit_speed">Enter the speed here (mph)</string>
+    <string name="main_button_scr2">To Screen 2!</string>
+    <string name="main_button_scr3">To Screen 3!</string>
+    <string name="main_button_scr4">To Screen 4!</string>
+
+    <string name="scr_two_name">Insert Text Here!</string>
+
+    <string name="back_button">Back</string>
+    <string name="quit_button">Quit</string>
+
+    <string name="scr_three_response"></string>
+    <string name="scr_three_reversetext">Your name backwards is:</string>
+    <string name="scr_three_usernamereverse"></string>
+    <string name="scr_three_name">Insert Text Here!</string>
+
+    <string name="save_on_exit">Would you like to save your Username?</string>
+    <string name="welcome_msg">"Welcome to Speed!\nRemember a speed limit does not mean it's safe to drive at that speed.\nEnter your name and a speed in mph"</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cont">Continue</string>
+
+    <string name="result_text">Crashing into a rigid object at %1$.2f mph is equivalent to a free fall of %2$.2f m</string>
+
+</resources>
