@@ -16,3 +16,7 @@ Features and Components included:
 - App rearranges its layout dynamically to adjust to horizontal and vertical orientations
 - Uses Alerts
 - Uses an Animation to display App Information
+
+![ScreenShotOne](screenshots/Screen Shot 2014-03-31 at 23.51.18.png)
+![ScreenShotTwo](screenshots/Screen Shot 2014-03-31 at 23.51.06.png)
+![ScreenShotFive](screenshots/Screen Shot 2014-03-31 at 23.52.00.png)
